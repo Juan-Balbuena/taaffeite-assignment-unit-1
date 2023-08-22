@@ -30,9 +30,12 @@ img {
     border-width: 2px;
     border-color: goldenrod;
 }
+.main-image {
+    width: 300px;
+}
 /* Change the font-family of your list */
 ul {
-    list-style-type: square;
+    list-style-type: none;
 }
 
 ul li {
